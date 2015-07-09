@@ -1,0 +1,2 @@
+BASIC RAILS APP
+I used the -d option to create this app.
